@@ -1,1 +1,1 @@
-console.log("Pritesh Bhatiya");
+console.log("Pritesh Bhatiya");  //Print the message on the console
