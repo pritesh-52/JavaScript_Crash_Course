@@ -1,8 +1,8 @@
 /* String And String method */
 
-
+/* let keyword */
 let it="TECH"
-console.log(it)
+console.log(it)   
 
 console.log(it.length);
 it="tech";
