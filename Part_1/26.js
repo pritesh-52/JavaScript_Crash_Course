@@ -3,7 +3,7 @@ let cl=["GLS","NIRMA","DDU"];
 
 for(let cl1 of cl)
 {
-    console.log(cl1);
+    console.log(cl1);   //prit the actual value 
 }
 
 /* for in loop */  /*  used to itetarciting give then index number */

@@ -2,7 +2,7 @@
 
 var w=80;
 console.log(this.w);
-console.log(window.w);
+console.log(window.w);  //can't work in class 
 
 
 console.log(x); // undefined

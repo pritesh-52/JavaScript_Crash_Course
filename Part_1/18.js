@@ -17,7 +17,7 @@ for(let i=1;i<=10;i++)
 {
     if(i==6)
     {
-        continue;   //skip 6
+        continue;   //skip 6 particlur element 6 will be skip 
     }
     else
     {

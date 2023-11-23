@@ -6,7 +6,7 @@ console.log($firstname);
 var _lastname="BHATIYA"; //allow
 console.log(_lastname);
 
-var f_l="JATIN BHATIYA";
+var f_l="JATIN BHATIYA";  //allow 
 console.log(f_l);
 
 
