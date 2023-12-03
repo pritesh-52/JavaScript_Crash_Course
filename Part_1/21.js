@@ -10,7 +10,7 @@ console.log(typeof obj); // type check
 
 let fname=["Pritesh","Bhatiya",10,20,30];
 
-console.log(Array.isArray(arr));  //true   
+console.log(Array.isArray(arr));  //true   check isArray or not
 console.log(Array.isArray(obj));  //false 
 console.log(Array.isArray(fname));
 
