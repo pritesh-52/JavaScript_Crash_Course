@@ -19,11 +19,9 @@ App();
 
 
 /* Callback function */
-
 const mcadepartment=()=>{
     console.log("MCA Department");
 }
-
 
 const gls=(Callback)=>{
     console.log("GLS college")
@@ -32,4 +30,8 @@ const gls=(Callback)=>{
 
 
 gls(mcadepartment);
+
+
+
+
 
