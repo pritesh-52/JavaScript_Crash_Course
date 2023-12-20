@@ -1,8 +1,5 @@
 /* Parameters in function */
 
-
-
-
 console.log("SUM IS",Sum(10,20));
 function Sum(a,b)
 {
