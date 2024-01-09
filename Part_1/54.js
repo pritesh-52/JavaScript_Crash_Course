@@ -7,8 +7,7 @@ function inform(country,state,city,addres)
     obj.country=country,
     obj.state=state,
     obj.city=city,
-    obj.addres=addres
-
+    obj.addres=addres;
     return obj;
 }
 
