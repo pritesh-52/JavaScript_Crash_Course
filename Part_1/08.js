@@ -16,7 +16,7 @@ console.log(typeof tech); //find the date type of the variable particulr variabl
 //convert to number to string 
 let age=22;
 age=age+"";  //convert to number to string
-console.log(typeof age);
+console.log(typeof age); // find the type of value data type 
 
 
 age=25;  
